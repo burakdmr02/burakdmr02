@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakdmr02
+- 👋 Hi, I’m @BurakDemir
 - 👀 I’m interested in  Unity 
 - 🌱 I’m currently learning  C#
 - 💞️ I’m looking to collaborate on ...
