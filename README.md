@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurakDemir
-- 👀 I’m interested in  Unity 
-- 🌱 I’m currently learning  C#
+- 👀 I’m interested in  Web Programming 
+- 🌱 I’m currently learning  C#, Asp.Net, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> demirburak889@gmail.com
 
